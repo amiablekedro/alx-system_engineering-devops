@@ -1,1 +1,2 @@
 #!/bin/bash
+Chown -h Vincent:staff _hello
